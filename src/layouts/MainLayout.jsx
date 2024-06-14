@@ -11,4 +11,4 @@ const MainLayout = () => {
   )
 }
 
-export default MainLayout
+export default MainLayout;
